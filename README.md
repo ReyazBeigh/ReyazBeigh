@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ReyazBeigh
-- 👀 I’m interested in Software Development & Automation
+- 👀 I’m interested in Software Development & Automation Scripts
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Fullstack Development and Automation tools
 - 📫 You can reach me on linkedIn https://www.linkedin.com/in/reyaz-beigh
